@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.neon {
+    font-size: 150px;
+    font-family: 'Dosis', sans-serif;
+    width: 1100px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+    text-shadow: 0 0 5px #fff,
+            0 0 15px #fff,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 40px #00f,
+            0 0 70px #00f,
+            0 0 80px #00f,
+            0 0 100px #00f,
+            0 0 120px #00f,
+            0 0 150px #00f;
+            border: 3px solid #00f;
+            border-radius: 35px;
+            padding: 0 20px;
+            box-sizing: border-box;
+            box-shadow: 0 0 5px #fff,
+            0 0 15px #fff,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 15px #00f,
+            0 0 40px #00f,
+            0 0 70px #00f;
+}
